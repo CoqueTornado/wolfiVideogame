@@ -1,4 +1,4 @@
-Este es un videojuego que hice: https://www.addictinggames.com/puzzle/wolfi-trip
+Commercial game release acquired and published by Addicting Games (US): https://www.addictinggames.com/puzzle/wolfi-trip
 
 
-Como dato adicional, este es otro videojuego que hice para otra empresa: https://tinyurl.com/32thezkz
+Additionally, here is another bespoke commercial game developed for an enterprise client: https://tinyurl.com/32thezkz
